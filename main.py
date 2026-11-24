@@ -5,7 +5,9 @@ Writes one line, at most 140 characters, to /output/entry.txt: the
 funniest excuse a robot vacuum could give for missing a spot.
 
 The excuse: a crumb that dodged three times wins the day — the vacuum
-keeps its dignity and returns to its dock.
+keeps its dignity and returns to its dock. The joke lands because the
+vacuum treats a speck of dirt as a worthy rival and frames losing to it
+as a dignified choice rather than a failure.
 """
 
 import os
