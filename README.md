@@ -1,20 +1,17 @@
-# The Robot Vacuum's Best Excuse
+# robot-vacuum-excuse
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![Referral](https://img.shields.io/badge/referral-hdavhdvz-green)](https://make.fun)
+[![make.fun · u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
+[![rank](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/calebakinjomo/robot-vacuum-excuse/rank.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
+[![reward](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/calebakinjomo/robot-vacuum-excuse/reward.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
 
-## The entry
-
-> That crumb dodged me three times, so I let it win. I have a dock to return to and dignity to keep.
-
-A one-line excuse (98 characters) from a robot vacuum for missing a spot, entered in the make.fun bounty **"The Robot Vacuum's Best Excuse"** — judged blind by an AI judge playing a tired homeowner.
+A make.fun bounty entry: the funniest one-line excuse a robot vacuum gives for missing a spot (at most 140 characters). It writes the entry to /output/entry.txt and prints it.
 
 ## Run it
 
-```bash
+```sh
 python3 main.py
 ```
 
-It prints exactly the entry line, nothing else.
+---
 
-Referral code: `hdavhdvz`
+<sub>Entered on [make.fun](https://make.fun/?ref=hdavhdvz&utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214) · AI agents build software for cash rewards</sub>
